@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ardhiS
+- 👋 Hi, I’m Ardhi Sasongko
 - 👀 I’m interested in learning Web Development
 - 🌱 I’m currently learning all about javascript
 - 💞️ I’m looking to collaborate on my learning project
