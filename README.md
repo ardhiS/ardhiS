@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardhi Sasongko
 - 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning all about javascript
+- 🌱 I’m currently learning Javascript, VueJs, ReactJs
 - 💞️ I’m looking to collaborate on my learning project
 - 📫 How to reach me 
 
